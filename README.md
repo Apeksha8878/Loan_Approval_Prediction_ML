@@ -1,5 +1,7 @@
 🏦 Loan Approval Prediction using Machine Learning
+
 📌 Overview
+
 This project predicts whether a loan will be approved or not using machine learning.
 The goal is to help banks make faster and more accurate loan decisions based on applicant details.
 
